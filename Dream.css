@@ -1,5 +1,5 @@
 body{
-	background-image: url(Purple.jpg);
+	background-image: url(500w.gif);
 	background-size: 100% 920px;
 }
 
@@ -8,12 +8,25 @@ body{
 	width: 300px; height: 15px;
 }
 
+
+
 .LOGIN:hover{
-	font-size: 50px;
-	color: blue;
+    font-size: 25px;
+	color:black;
+	transform: scale(200.0);
 }
 
 
+.LOGIN {
+  font-size: 18px;
+  padding: 12px 24px;
+  background-color: purple;
+  border-radius: 8px;
+}
+
+.SIGNIN{
+	text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+}
 
 
 
