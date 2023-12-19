@@ -1,0 +1,33 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #0e1b2a;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #0e1b2a;
+    background-image: url('../images/background.gif');
+    background-repeat: no-repeat;
+    background-size: 100% 1000px;
+}
+
+#gift-container {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: #f87474;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #cc0000;
+}
+
+p {
+    color: #006e0f;
+}
+
+#heart {
+    color: #cc0000;
+    font-size: 2em;
+}
